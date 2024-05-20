@@ -1,5 +1,7 @@
 ## GET /api/calculate/:fromPlace/:toPlace/:carClass
 
+> Deprecated. Please use new [Calculation v2](calculate-v2.md) API
+
 Get sale price for a route.
 
 ### Params:

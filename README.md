@@ -30,8 +30,8 @@ To get initial set of data to provide it to Users, Client has to get data from S
 1.3. Client request [Car Classes](car-classes.md)
 
 ### 2. Provide interface for a User
-When User interacts with Client's website/app the Client might request [Calculation](calculate.md) API
-to provide information for the selected route such as price (and potentially other details, that might be added in future)
+When User interacts with Client's website/app the Client might request [Calculation](calculate-v2.md) API
+to provide information for the selected route such as price (and potentially other details, that might be added in the future)
 
 ### 3. Create a Transfer
 When User confirms creation of Transfer for the given price, Client should request [Create Transfer](create-transfer.md) API

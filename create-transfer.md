@@ -48,6 +48,14 @@ type Request = {
      */
     commentSupplier: string | null;
     /**
+     * Comment for Transfer Driver
+     */
+    commentDriver: string | null;
+    /**
+     * Comment for Transfer Passenger
+     */
+    commentPassenger: string | null;
+    /**
      * Passengers count
      */
     passengersCount: number | null;
